@@ -1,0 +1,101 @@
+*{
+    margin: 5px;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.max-width{
+    max-width: 1300px;
+     padding: 0 100px;
+     margin: auto;
+}
+hr{
+    color: purple;
+    height: 5px;background-color: purple;
+}
+
+h1{ background: purple;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+h1:hover{
+    background: darkblue;
+}
+.objectivetext{
+    margin-left: 100px;
+}
+.edu-container .content1{
+    display: flex ;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+.edu-container .content1 .right-content{
+    margin-left:100px ;
+}
+.edu-container .content2{
+ 
+    display: flex ;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+.edu-container .content2 .right-content{
+    margin-left: 65px;
+}   
+.edu-container .content3{
+    display: flex ;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+.edu-container .content3 .right-content{
+    margin-left:65px ;
+}
+.edu-container .content4{
+    display: flex ;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+.edu-container .content4 .right-content{
+    margin-left:70px ;
+}
+.work-container .content1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:flex-start ; 
+}
+.work-container .content1 .right-content{
+    margin-left: 40px;
+}
+.work-container .content2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:flex-start ; 
+}
+.work-container .content2 .right-content{
+    margin-left: 100px;}
+.work-container .content3{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content:flex-start;
+        margin: 20px; 
+}
+.work-container .content3 .right-content{
+        margin-left: 50px;
+}
+
+.pq-container, .ref-container, 
+.intrest-container, .skills-container,
+.seminar-container{
+    margin: 20pxs;
+    margin-left:190px;
+}
+
+
+
+
+
+
